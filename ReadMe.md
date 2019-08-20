@@ -1,6 +1,6 @@
 # Read Me
 
-ABN-AMRO-CodingChallenge.zip contains below list of files.
+Here are the details about the content of the package. 
 Please update the metadata location in the config file and the log file location in the logging file before running the app.
 
 
